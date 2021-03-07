@@ -11,3 +11,15 @@ Everything from using a single tree for regression or classification to more adv
 This course is part theory and part practical. For the practical exercise, participants will learn how to implement Decision Tree, Random Forest, and Gradient Boosting algorithms to real-world datasets using Python on Google Colab platform.
 
 
+## Prerequisites/knowledge:
+Basic working knowledge of python and Jupyter Notebook.
+
+## Will I be using any particular software?
+Jupyter and Python
+
+## Will I need to bring a laptop, or download anything in advance? 
+Participants can bring their laptops otherwise can use systems available in the labs. As all practical session will run over Google Colab, participants need to make an account on Google Collab platform.
+
+## Will I need to prepare anything in advance?
+Participants need to make an account on Google Collab platform.
+
